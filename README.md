@@ -4,10 +4,9 @@ Portfolio analytics project using a simulated Apple retail-like dataset generate
 Demonstrates relational modeling, SQL analytics, Python analysis, and reporting.
 
 ## Objectives
-- Generate realistic retail data (sales line-items, products, stores, customers, warranty claims)
-- Load data into a relational database (SQLite)
 - Answer business questions with SQL + Python
 - Produce visuals and dashboard-ready outputs
+- Analyze the retail sales situation.
 
 ## Business Questions
 - Which products/categories drive revenue and unit volume?
@@ -16,10 +15,9 @@ Demonstrates relational modeling, SQL analytics, Python analysis, and reporting.
 - How does revenue trend month-over-month?
 
 ## Repo Structure
-- `src/` – Python scripts (data generation, DB build, analysis)
 - `sql/` – schema + metric queries
-- `notebooks/` – optional EDA notebooks
-- `data/` – data documentation (raw data is generated locally and ignored by git)
+- `notebooks/` – EDA Python notebooks
+- `dataset/` – data documentation (raw data is generated locally)
 - `reports/figures/` – charts (PNG) used in README / reporting
 - `docs/` – data dictionary and project plan
 
