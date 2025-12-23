@@ -1,0 +1,101 @@
+store_id,store_name,city,state,country
+R286,Apple The Promenade at Chenal,Little Rock,AR,USA
+R247,Apple Arrowhead,Glendale,AZ,USA
+R267,Apple SanTan Village,Gilbert,AZ,USA
+R414,Apple 4th Street,Berkeley,CA,USA
+R057,Apple Bay Street,Emeryville,CA,USA
+R014,Apple Broadway Plaza,Walnut Creek,CA,USA
+R029,Apple Burlingame,Burlingame,CA,USA
+R217,Apple Chestnut Street,San Francisco,CA,USA
+R777,Apple Del Amo,Torrance,CA,USA
+R297,Apple El Paseo Village,Palm Desert,CA,USA
+R015,Apple Fashion Island,Newport Beach,CA,USA
+R040,Apple Fashion Valley,San Diego,CA,USA
+R001,Apple Glendale Galleria,Glendale,CA,USA
+R231,Apple Hillsdale,San Mateo,CA,USA
+R105,Apple Oakridge,San Jose,CA,USA
+R213,Apple Otay Ranch,Chula Vista,CA,USA
+R002,Apple Palo Alto,Palo Alto,CA,USA
+R345,Apple Promenade Temecula,Temecula,CA,USA
+R099,Apple Stanford,Palo Alto,CA,USA
+R451,Apple The Americana at Brand,Glendale,CA,USA
+R154,Apple The Oaks,Thousand Oaks,CA,USA
+R082,Apple UTC,San Diego,CA,USA
+R462,Apple Valencia Town Center,Valencia,CA,USA
+R550,Apple Valley Plaza,Bakersfield,CA,USA
+R322,Apple Vintage Faire,Modesto,CA,USA
+R030,Apple Aspen Grove,Littleton,CO,USA
+R338,Apple The Promenade Shops at Briargate,Colorado Springs,CO,USA
+R613,Apple Evergreen Walk,South Windsor,CT,USA
+R282,Apple Greenwich Avenue,Greenwich,CT,USA
+R516,Apple Carnegie Library,Washington,DC,USA
+R287,Apple Georgetown,Washington,DC,USA
+R237,Apple Brandon,Brandon,FL,USA
+R143,Apple Florida Mall,Orlando,FL,USA
+R752,Apple Miami Worldcenter,Miami,FL,USA
+R591,Apple Cumberland Mall,Atlanta,GA,USA
+R073,Apple Ala Moana,Honolulu,HI,USA
+R198,Apple Royal Hawaiian,Honolulu,HI,USA
+R303,Apple Boise Towne Square,Boise,ID,USA
+R089,Apple Old Orchard,Skokie,IL,USA
+R600,Apple Fritz Farm,Lexington,KY,USA
+R195,Apple Oxmoor,Louisville,KY,USA
+R324,Apple Mall of Louisiana,Baton Rouge,LA,USA
+R263,Apple Natick,Natick,MA,USA
+R168,Apple Columbia,Columbia,MD,USA
+R763,Apple Downtown Detroit,Detroit,MI,USA
+R055,Apple Somerset,Troy,MI,USA
+R054,Apple Southdale,Edina,MN,USA
+R097,Apple Country Club Plaza,Kansas City,MO,USA
+R232,Apple Saint Louis Galleria,Saint Louis,MO,USA
+R180,Apple West County,Saint Louis,MO,USA
+R116,Apple Crabtree Valley Mall,Raleigh,NC,USA
+R796,Apple Birkdale Village,Huntersville,NC,USA
+R219,Apple Friendly Center,Greensboro,NC,USA
+R083,Apple SouthPark,Charlotte,NC,USA
+R190,Apple Village Pointe,Omaha,NE,USA
+R755,Apple American Dream,East Rutherford,NJ,USA
+R104,Apple Bridgewater,Bridgewater,NJ,USA
+R138,Apple Freehold Raceway Mall,Freehold,NJ,USA
+R117,Apple Garden State Plaza,Paramus,NJ,USA
+R037,Apple Tice's Corner,Woodcliff Lake,NJ,USA
+R041,Apple Willowbrook,Wayne,NJ,USA
+R177,Apple ABQ Uptown,Albuquerque,NM,USA
+R186,Apple Summit Sierra,Reno,NV,USA
+R715,Apple Downtown Brooklyn,Brooklyn,NY,USA
+R095,Apple Fifth Avenue,New York,NY,USA
+R388,Apple Grand Central,New York,NY,USA
+R062,Apple Nanuet,Nanuet,NY,USA
+R612,Apple Queens Center,Elmhurst,NY,USA
+R139,Apple Smith Haven,Lake Grove,NY,USA
+R016,Apple SoHo,New York,NY,USA
+R152,Apple Staten Island,Staten Island,NY,USA
+R254,Apple Upper West Side,New York,NY,USA
+R068,Apple Walt Whitman,Huntington Station,NY,USA
+R249,Apple West 14th Street,New York,NY,USA
+R038,Apple Easton Town Center,Columbus,OH,USA
+R046,Apple Kenwood Towne Centre,Cincinnati,OH,USA
+R208,Apple Polaris Fashion Place,Columbus,OH,USA
+R209,Apple Summit Mall,Akron,OH,USA
+R130,Apple Penn Square,Oklahoma City,OK,USA
+R212,Apple Bridgeport Village,Tigard,OR,USA
+R090,Apple Washington Square,Tigard,OR,USA
+R312,Apple Lehigh Valley,Whitehall,PA,USA
+R165,Apple Park City,Lancaster,PA,USA
+R239,Apple Ross Park,Pittsburgh,PA,USA
+R370,Apple Walnut Street,Philadelphia,PA,USA
+R253,Apple CoolSprings Galleria,Franklin,TN,USA
+R492,Apple Cielo Vista Mall,El Paso,TX,USA
+R216,Apple Domain NORTHSIDE,Austin,TX,USA
+R437,Apple Highland Village,Houston,TX,USA
+R151,Apple Southlake Town Square,Southlake,TX,USA
+R126,Apple The Woodlands,The Woodlands,TX,USA
+R316,Apple University Park Village,Fort Worth,TX,USA
+R614,Apple Lynnhaven Mall,Virginia Beach,VA,USA
+R598,Apple Potomac Town Center,Woodbridge,VA,USA
+R271,Apple Reston,Reston,VA,USA
+R010,Apple Tysons Corner,McLean,VA,USA
+R420,Apple River Park Square,Spokane,WA,USA
+R339,Apple Tacoma Mall,Tacoma,WA,USA
+R257,Apple Bayshore,Glendale,WI,USA
+R229,Apple Hilldale,Madison,WI,USA

@@ -1,0 +1,60 @@
+product_id,product_name,category_id,launch_date,launch_price
+P-1049,Apple Watch Ultra,C-WBL,2022-10-23,799.0
+P-1050,Apple TV 4K (3rd Gen),C-ACC,2022-12-04,129.0
+P-1051,iPad (10th Gen),C-TAB,2022-11-26,449.0
+P-1052,iPad Pro 12.9-inch (M2),C-TAB,2022-11-26,1099.0
+P-1053,iPad Pro 11-inch (M2),C-TAB,2022-12-26,799.0
+P-1055,Mac mini (M2 / M2 Pro),C-DSK,2023-01-24,599.0
+P-1056,MacBook Pro 16-inch (M2 Pro / Max),C-LPT,2023-01-24,2499.0
+P-1057,MacBook Pro 14-inch (M2 Pro / Max),C-LPT,2023-01-24,1999.0
+P-1058,HomePod (2nd Gen),C-ACC,2023-02-03,299.0
+P-1059,MacBook Air 15-inch (M2),C-LPT,2023-04-13,1299.0
+P-1060,Mac Pro (M2 Ultra),C-DSK,2023-05-13,6999.0
+P-1061,Mac Studio (M2 Max / Ultra),C-DSK,2023-06-13,1999.0
+P-1062,"AirPods Pro (2nd Gen, USB-C)",C-ACC,2023-07-22,249.0
+P-1063,Apple Watch Ultra 2,C-WBL,2023-07-22,799.0
+P-1064,Apple Watch Series 9,C-WBL,2023-07-22,399.0
+P-1065,iPhone 15 Pro Max,C-PHN,2023-08-22,1199.0
+P-1066,iPhone 15 Pro,C-PHN,2023-07-22,999.0
+P-1067,iPhone 15 Plus,C-PHN,2023-06-22,899.0
+P-1068,iPhone 15,C-PHN,2023-05-22,799.0
+P-1069,Apple Pencil (USB-C),C-ACC,2023-11-01,79.0
+P-1070,iMac 24-inch (M3),C-DSK,2023-11-07,1299.0
+P-1071,MacBook Pro 16-inch (M3 Pro / M3 Max),C-LPT,2023-11-07,2499.0
+P-1072,MacBook Pro 14-inch (M3 / M3 Pro / M3 Max),C-LPT,2023-12-07,1599.0
+P-1073,Apple Vision Pro,C-VIS,2024-02-02,3499.0
+P-1074,MacBook Air 15-inch (M3),C-LPT,2024-03-08,1299.0
+P-1075,MacBook Air 13-inch (M3),C-LPT,2024-03-08,1099.0
+P-1076,iPad Air 13-inch (M2),C-TAB,2024-05-15,799.0
+P-1077,iPad Air 11-inch (M2),C-TAB,2024-06-15,599.0
+P-1078,iPad Pro 13-inch (M4),C-TAB,2024-07-15,1299.0
+P-1079,iPad Pro 11-inch (M4),C-TAB,2024-07-15,999.0
+P-1080,AirPods Max (USB-C),C-ACC,2024-09-20,549.0
+P-1081,AirPods 4 (ANC),C-ACC,2024-09-20,179.0
+P-1082,AirPods 4,C-ACC,2024-09-20,129.0
+P-1083,Apple Watch Ultra 2 (Black Titanium),C-WBL,2024-09-20,799.0
+P-1084,Apple Watch Series 10,C-WBL,2024-09-20,399.0
+P-1085,iPhone 16 Pro Max,C-PHN,2024-10-20,1199.0
+P-1086,iPhone 16 Pro,C-PHN,2024-09-20,999.0
+P-1087,iPhone 16 Plus,C-PHN,2024-08-20,899.0
+P-1088,iPhone 16,C-PHN,2024-07-20,799.0
+P-1089,iPad mini (A17 Pro),C-TAB,2024-10-01,499.0
+P-1090,iMac 24-inch (M4),C-DSK,2024-10-01,1299.0
+P-1091,MacBook Pro 16-inch (M4 Pro / M4 Max),C-LPT,2024-11-01,2499.0
+P-1092,MacBook Pro 14-inch (M4 / M4 Pro / M4 Max),C-LPT,2024-11-01,1599.0
+P-1093,Mac mini (M4 / M4 Pro),C-DSK,2024-10-01,599.0
+P-1094,iPhone 16e,C-PHN,2025-02-01,599.0
+P-1095,MacBook Air 15-inch (M4),C-LPT,2025-02-01,1199.0
+P-1096,MacBook Air 13-inch (M4),C-LPT,2025-03-01,999.0
+P-1097,AirPods Pro 3,C-ACC,2025-03-01,249.0
+P-1098,Apple Watch SE 3,C-WBL,2025-04-01,249.0
+P-1099,Apple Watch Ultra 3,C-WBL,2025-04-01,799.0
+P-1100,Apple Watch Series 11,C-WBL,2025-09-01,399.0
+P-1101,iPhone 17 Pro Max,C-PHN,2025-08-01,1199.0
+P-1102,iPhone 17 Pro,C-PHN,2025-07-01,1099.0
+P-1103,iPhone 17 Air (Slim),C-PHN,2025-06-01,999.0
+P-1104,iPhone 17,C-PHN,2025-05-01,799.0
+P-1105,"iPad Pro (M5, 11-inch & 13-inch)",C-TAB,2025-10-15,999.0
+P-1106,MacBook Pro 16-inch (M5 Pro/Max),C-LPT,2025-09-15,2499.0
+P-1107,MacBook Pro 14-inch (M5),C-LPT,2025-09-15,1599.0
+P-1108,Apple Vision Pro (M5),C-VIS,2025-02-15,3499.0
